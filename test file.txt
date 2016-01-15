@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 add a different text
-=======
 add some test
->>>>>>> 0f3cae52c63b34f6be2e02fe96e608e4abb181aa
