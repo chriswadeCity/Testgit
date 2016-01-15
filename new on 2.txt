@@ -1,3 +1,7 @@
 branch text
+<<<<<<< HEAD
 
 branch a
+=======
+branch 
+>>>>>>> 7f3bfca329ae16ee141a783a0e1f38ea7541320a
